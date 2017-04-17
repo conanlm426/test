@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="core/src/main/java"/>
+	<classpathentry kind="src" path="core/src/test/java"/>
+	<classpathentry kind="src" path="data/src/main/java"/>
+	<classpathentry kind="src" path="data/src/test/java"/>
+	<classpathentry kind="src" path="demo/src/main/java"/>
+	<classpathentry kind="src" path="graph/src/main/java"/>
+	<classpathentry kind="src" path="graph/src/test/java"/>
+	<classpathentry kind="src" path="interpolation/src/main/java"/>
+	<classpathentry kind="src" path="interpolation/src/test/java"/>
+	<classpathentry kind="src" path="math/src/main/java"/>
+	<classpathentry kind="src" path="math/src/test/java"/>
+	<classpathentry kind="src" path="nd4j/src/main/java"/>
+	<classpathentry kind="src" path="nd4j/src/test/java"/>
+	<classpathentry kind="src" path="nlp/src/main/java"/>
+	<classpathentry kind="src" path="nlp/src/test/java"/>
+	<classpathentry kind="src" path="plot/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
